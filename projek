@@ -1,0 +1,320 @@
+<NotepadPlus>
+    <Project name="bahanpiknik">
+        <Folder name="application">
+            <Folder name="cache">
+                <File name="application\cache\.htaccess" />
+                <File name="application\cache\index.html" />
+            </Folder>
+            <Folder name="config">
+                <File name="application\config\autoload.php" />
+                <File name="application\config\config.php" />
+                <File name="application\config\constants.php" />
+                <File name="application\config\database.php" />
+                <File name="application\config\doctypes.php" />
+                <File name="application\config\foreign_chars.php" />
+                <File name="application\config\hooks.php" />
+                <File name="application\config\index.html" />
+                <File name="application\config\memcached.php" />
+                <File name="application\config\migration.php" />
+                <File name="application\config\mimes.php" />
+                <File name="application\config\profiler.php" />
+                <File name="application\config\routes.php" />
+                <File name="application\config\smileys.php" />
+                <File name="application\config\user_agents.php" />
+            </Folder>
+            <Folder name="controllers">
+                <File name="application\controllers\Home.php" />
+                <File name="application\controllers\index.html" />
+            </Folder>
+            <Folder name="core">
+                <File name="application\core\index.html" />
+                <File name="application\core\MY_Controller.php" />
+            </Folder>
+            <Folder name="helpers">
+                <File name="application\helpers\index.html" />
+            </Folder>
+            <Folder name="hooks">
+                <File name="application\hooks\index.html" />
+            </Folder>
+            <Folder name="language">
+                <Folder name="english">
+                    <File name="application\language\english\en_admin_lang.php" />
+                    <File name="application\language\english\index.html" />
+                </Folder>
+                <File name="application\language\index.html" />
+            </Folder>
+            <Folder name="libraries">
+                <File name="application\libraries\index.html" />
+            </Folder>
+            <Folder name="logs">
+                <File name="application\logs\index.html" />
+            </Folder>
+            <Folder name="models">
+                <File name="application\models\index.html" />
+            </Folder>
+            <Folder name="third_party">
+                <File name="application\third_party\index.html" />
+            </Folder>
+            <Folder name="views">
+                <Folder name="errors">
+                    <Folder name="cli">
+                        <File name="application\views\errors\cli\error_404.php" />
+                        <File name="application\views\errors\cli\error_db.php" />
+                        <File name="application\views\errors\cli\error_exception.php" />
+                        <File name="application\views\errors\cli\error_general.php" />
+                        <File name="application\views\errors\cli\error_php.php" />
+                        <File name="application\views\errors\cli\index.html" />
+                    </Folder>
+                    <Folder name="html">
+                        <File name="application\views\errors\html\error_404.php" />
+                        <File name="application\views\errors\html\error_db.php" />
+                        <File name="application\views\errors\html\error_exception.php" />
+                        <File name="application\views\errors\html\error_general.php" />
+                        <File name="application\views\errors\html\error_php.php" />
+                        <File name="application\views\errors\html\index.html" />
+                    </Folder>
+                    <File name="application\views\errors\index.html" />
+                </Folder>
+                <Folder name="templates">
+                    <File name="application\views\templates\action_bar.php" />
+                    <File name="application\views\templates\footer.php" />
+                    <File name="application\views\templates\header.php" />
+                    <File name="application\views\templates\menu.php" />
+                    <File name="application\views\templates\service.php" />
+                    <File name="application\views\templates\slider.php" />
+                </Folder>
+                <File name="application\views\home.php" />
+                <File name="application\views\index.html" />
+                <File name="application\views\welcome_message.php" />
+            </Folder>
+            <File name="application\.htaccess" />
+            <File name="application\index.html" />
+        </Folder>
+        <Folder name="bootstrap">
+            <Folder name="css">
+                <File name="bootstrap\css\bahanpiknik.css" />
+                <File name="bootstrap\css\bootstrap.css" />
+                <File name="bootstrap\css\bootstrap.min.css" />
+                <File name="bootstrap\css\custom.css" />
+                <File name="bootstrap\css\font-awesome.min.css" />
+                <File name="bootstrap\css\icomoon-social.css" />
+                <File name="bootstrap\css\main.css" />
+            </Folder>
+            <Folder name="fonts">
+                <File name="bootstrap\fonts\fontawesome-webfont.eot" />
+                <File name="bootstrap\fonts\fontawesome-webfont.svg" />
+                <File name="bootstrap\fonts\fontawesome-webfont.ttf" />
+                <File name="bootstrap\fonts\fontawesome-webfont.woff" />
+                <File name="bootstrap\fonts\FontAwesome.otf" />
+                <File name="bootstrap\fonts\glyphicons-halflings-regular.eot" />
+                <File name="bootstrap\fonts\glyphicons-halflings-regular.svg" />
+                <File name="bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+                <File name="bootstrap\fonts\glyphicons-halflings-regular.woff" />
+            </Folder>
+            <Folder name="js">
+                <File name="bootstrap\js\bootstrap.js" />
+                <File name="bootstrap\js\bootstrap.min.js" />
+                <File name="bootstrap\js\jquery-1.9.1.min.js" />
+                <File name="bootstrap\js\jquery.bootstrap.newsbox.js" />
+                <File name="bootstrap\js\jquery.bootstrap.newsbox.min.js" />
+                <File name="bootstrap\js\modernizr-2.6.2-respond-1.1.0.min.js" />
+                <File name="bootstrap\js\scrolling-nav.js" />
+            </Folder>
+            <Folder name="less">
+                <File name="bootstrap\less\components.less" />
+                <File name="bootstrap\less\general.less" />
+                <File name="bootstrap\less\lesshat.less" />
+                <File name="bootstrap\less\main.less" />
+                <File name="bootstrap\less\variables.less" />
+            </Folder>
+        </Folder>
+        <Folder name="dokumentasi">
+            <Folder name="BASICA">
+                <Folder name="css">
+                    <File name="dokumentasi\BASICA\css\bootstrap.css" />
+                    <File name="dokumentasi\BASICA\css\bootstrap.min.css" />
+                    <File name="dokumentasi\BASICA\css\custom.css" />
+                    <File name="dokumentasi\BASICA\css\font-awesome.min.css" />
+                    <File name="dokumentasi\BASICA\css\icomoon-social.css" />
+                    <File name="dokumentasi\BASICA\css\main.css" />
+                </Folder>
+                <Folder name="fonts">
+                    <File name="dokumentasi\BASICA\fonts\fontawesome-webfont.eot" />
+                    <File name="dokumentasi\BASICA\fonts\fontawesome-webfont.svg" />
+                    <File name="dokumentasi\BASICA\fonts\fontawesome-webfont.ttf" />
+                    <File name="dokumentasi\BASICA\fonts\fontawesome-webfont.woff" />
+                    <File name="dokumentasi\BASICA\fonts\FontAwesome.otf" />
+                    <File name="dokumentasi\BASICA\fonts\glyphicons-halflings-regular.eot" />
+                    <File name="dokumentasi\BASICA\fonts\glyphicons-halflings-regular.svg" />
+                    <File name="dokumentasi\BASICA\fonts\glyphicons-halflings-regular.ttf" />
+                    <File name="dokumentasi\BASICA\fonts\glyphicons-halflings-regular.woff" />
+                </Folder>
+                <Folder name="img">
+                    <Folder name="blog">
+                        <File name="dokumentasi\BASICA\img\blog\1.jpg" />
+                        <File name="dokumentasi\BASICA\img\blog\2.jpg" />
+                        <File name="dokumentasi\BASICA\img\blog\3.jpg" />
+                        <File name="dokumentasi\BASICA\img\blog\4.jpg" />
+                    </Folder>
+                    <Folder name="icons">
+                        <File name="dokumentasi\BASICA\img\icons\facebook.png" />
+                        <File name="dokumentasi\BASICA\img\icons\linkedin.png" />
+                        <File name="dokumentasi\BASICA\img\icons\rss.png" />
+                        <File name="dokumentasi\BASICA\img\icons\twitter.png" />
+                    </Folder>
+                    <Folder name="logos">
+                        <File name="dokumentasi\BASICA\img\logos\logo-1.jpg" />
+                        <File name="dokumentasi\BASICA\img\logos\logo-10.jpg" />
+                        <File name="dokumentasi\BASICA\img\logos\logo-11.jpg" />
+                        <File name="dokumentasi\BASICA\img\logos\logo-12.jpg" />
+                        <File name="dokumentasi\BASICA\img\logos\logo-13.jpg" />
+                        <File name="dokumentasi\BASICA\img\logos\logo-14.jpg" />
+                        <File name="dokumentasi\BASICA\img\logos\logo-15.jpg" />
+                        <File name="dokumentasi\BASICA\img\logos\logo-2.jpg" />
+                        <File name="dokumentasi\BASICA\img\logos\logo-3.jpg" />
+                        <File name="dokumentasi\BASICA\img\logos\logo-4.jpg" />
+                        <File name="dokumentasi\BASICA\img\logos\logo-5.jpg" />
+                        <File name="dokumentasi\BASICA\img\logos\logo-6.jpg" />
+                        <File name="dokumentasi\BASICA\img\logos\logo-7.jpg" />
+                        <File name="dokumentasi\BASICA\img\logos\logo-8.jpg" />
+                        <File name="dokumentasi\BASICA\img\logos\logo-9.jpg" />
+                    </Folder>
+                    <Folder name="portfolio">
+                        <File name="dokumentasi\BASICA\img\portfolio\1.jpg" />
+                        <File name="dokumentasi\BASICA\img\portfolio\2.jpg" />
+                        <File name="dokumentasi\BASICA\img\portfolio\3.jpg" />
+                        <File name="dokumentasi\BASICA\img\portfolio\4.jpg" />
+                        <File name="dokumentasi\BASICA\img\portfolio\5.jpg" />
+                        <File name="dokumentasi\BASICA\img\portfolio\6.jpg" />
+                        <File name="dokumentasi\BASICA\img\portfolio\7.jpg" />
+                        <File name="dokumentasi\BASICA\img\portfolio\8.jpg" />
+                    </Folder>
+                    <Folder name="slides">
+                        <File name="dokumentasi\BASICA\img\slides\1.jpg" />
+                        <File name="dokumentasi\BASICA\img\slides\2.jpg" />
+                        <File name="dokumentasi\BASICA\img\slides\3.jpg" />
+                    </Folder>
+                    <Folder name="team">
+                        <File name="dokumentasi\BASICA\img\team\1.jpg" />
+                        <File name="dokumentasi\BASICA\img\team\2.jpg" />
+                        <File name="dokumentasi\BASICA\img\team\3.jpg" />
+                    </Folder>
+                    <File name="dokumentasi\BASICA\img\about-us.jpg" />
+                    <File name="dokumentasi\BASICA\img\bars.png" />
+                    <File name="dokumentasi\BASICA\img\bx_loader.gif" />
+                    <File name="dokumentasi\BASICA\img\glyphicons-halflings-white.png" />
+                    <File name="dokumentasi\BASICA\img\glyphicons-halflings.png" />
+                    <File name="dokumentasi\BASICA\img\icomoon-social.png" />
+                    <File name="dokumentasi\BASICA\img\logo.png" />
+                    <File name="dokumentasi\BASICA\img\title-before.png" />
+                </Folder>
+                <Folder name="js">
+                    <File name="dokumentasi\BASICA\js\bootstrap.js" />
+                    <File name="dokumentasi\BASICA\js\bootstrap.min.js" />
+                    <File name="dokumentasi\BASICA\js\jquery-1.9.1.min.js" />
+                    <File name="dokumentasi\BASICA\js\jquery.easing.min.js" />
+                    <File name="dokumentasi\BASICA\js\modernizr-2.6.2-respond-1.1.0.min.js" />
+                    <File name="dokumentasi\BASICA\js\scrolling-nav.js" />
+                </Folder>
+                <Folder name="less">
+                    <File name="dokumentasi\BASICA\less\components.less" />
+                    <File name="dokumentasi\BASICA\less\general.less" />
+                    <File name="dokumentasi\BASICA\less\lesshat.less" />
+                    <File name="dokumentasi\BASICA\less\main.less" />
+                    <File name="dokumentasi\BASICA\less\variables.less" />
+                </Folder>
+                <File name="dokumentasi\BASICA\about-us.html" />
+                <File name="dokumentasi\BASICA\blog-post.html" />
+                <File name="dokumentasi\BASICA\blog.html" />
+                <File name="dokumentasi\BASICA\contact-us.html" />
+                <File name="dokumentasi\BASICA\full-width.html" />
+                <File name="dokumentasi\BASICA\index.html" />
+                <File name="dokumentasi\BASICA\portfolio-item.html" />
+                <File name="dokumentasi\BASICA\portfolio.html" />
+                <File name="dokumentasi\BASICA\services.html" />
+            </Folder>
+            <File name="dokumentasi\basica.zip" />
+            <File name="dokumentasi\logo bahanpiknik.com.psd" />
+            <File name="dokumentasi\Untitled-1.psd" />
+            <File name="dokumentasi\v1.0.5.zip" />
+        </Folder>
+        <Folder name="img">
+            <Folder name="blog">
+                <File name="img\blog\1.jpg" />
+                <File name="img\blog\2.jpg" />
+                <File name="img\blog\3.jpg" />
+                <File name="img\blog\4.jpg" />
+            </Folder>
+            <Folder name="icons">
+                <File name="img\icons\facebook.png" />
+                <File name="img\icons\linkedin.png" />
+                <File name="img\icons\rss.png" />
+                <File name="img\icons\twitter.png" />
+            </Folder>
+            <Folder name="logos">
+                <File name="img\logos\logo-1.jpg" />
+                <File name="img\logos\logo-10.jpg" />
+                <File name="img\logos\logo-11.jpg" />
+                <File name="img\logos\logo-12.jpg" />
+                <File name="img\logos\logo-13.jpg" />
+                <File name="img\logos\logo-14.jpg" />
+                <File name="img\logos\logo-15.jpg" />
+                <File name="img\logos\logo-2.jpg" />
+                <File name="img\logos\logo-3.jpg" />
+                <File name="img\logos\logo-4.jpg" />
+                <File name="img\logos\logo-5.jpg" />
+                <File name="img\logos\logo-6.jpg" />
+                <File name="img\logos\logo-7.jpg" />
+                <File name="img\logos\logo-8.jpg" />
+                <File name="img\logos\logo-9.jpg" />
+            </Folder>
+            <Folder name="portfolio">
+                <File name="img\portfolio\1.jpg" />
+                <File name="img\portfolio\2.jpg" />
+                <File name="img\portfolio\3.jpg" />
+                <File name="img\portfolio\4.jpg" />
+                <File name="img\portfolio\5.jpg" />
+                <File name="img\portfolio\6.jpg" />
+                <File name="img\portfolio\7.jpg" />
+                <File name="img\portfolio\8.jpg" />
+            </Folder>
+            <Folder name="slides">
+                <File name="img\slides\1.jpg" />
+                <File name="img\slides\2.jpg" />
+                <File name="img\slides\3.jpg" />
+                <File name="img\slides\4.jpg" />
+            </Folder>
+            <Folder name="team">
+                <File name="img\team\1.jpg" />
+                <File name="img\team\2.jpg" />
+                <File name="img\team\3.jpg" />
+            </Folder>
+            <File name="img\1.png" />
+            <File name="img\2.png" />
+            <File name="img\3.png" />
+            <File name="img\4.png" />
+            <File name="img\5.png" />
+            <File name="img\6.png" />
+            <File name="img\7.png" />
+            <File name="img\about-us.jpg" />
+            <File name="img\bars.png" />
+            <File name="img\bx_loader.gif" />
+            <File name="img\distro.jpg" />
+            <File name="img\event.jpg" />
+            <File name="img\fb-sidebar.png" />
+            <File name="img\fotographer.jpg" />
+            <File name="img\glyphicons-halflings-white.png" />
+            <File name="img\glyphicons-halflings.png" />
+            <File name="img\icomoon-social.png" />
+            <File name="img\logo.png" />
+            <File name="img\reseller-sidebar.png" />
+            <File name="img\reseller.jpg" />
+            <File name="img\sidebar.psd" />
+            <File name="img\testimoni-sidebar.png" />
+            <File name="img\testimoni.png" />
+            <File name="img\title-before.png" />
+        </Folder>
+        <File name=".htaccess" />
+        <File name="index.php" />
+    </Project>
+</NotepadPlus>

@@ -1,0 +1,320 @@
+<NotepadPlus>
+    <Project name="bahanpiknik">
+        <Folder name="application">
+            <Folder name="cache">
+                <File name="C:\xampp\htdocs\bahanpiknik\application\cache\.htaccess" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\cache\index.html" />
+            </Folder>
+            <Folder name="config">
+                <File name="C:\xampp\htdocs\bahanpiknik\application\config\autoload.php" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\config\config.php" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\config\constants.php" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\config\database.php" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\config\doctypes.php" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\config\foreign_chars.php" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\config\hooks.php" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\config\index.html" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\config\memcached.php" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\config\migration.php" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\config\mimes.php" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\config\profiler.php" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\config\routes.php" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\config\smileys.php" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\config\user_agents.php" />
+            </Folder>
+            <Folder name="controllers">
+                <File name="Home.php" />
+                <File name="index.html" />
+            </Folder>
+            <Folder name="core">
+                <File name="C:\xampp\htdocs\bahanpiknik\application\core\index.html" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\core\MY_Controller.php" />
+            </Folder>
+            <Folder name="helpers">
+                <File name="C:\xampp\htdocs\bahanpiknik\application\helpers\index.html" />
+            </Folder>
+            <Folder name="hooks">
+                <File name="C:\xampp\htdocs\bahanpiknik\application\hooks\index.html" />
+            </Folder>
+            <Folder name="language">
+                <Folder name="english">
+                    <File name="C:\xampp\htdocs\bahanpiknik\application\language\english\en_admin_lang.php" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\application\language\english\index.html" />
+                </Folder>
+                <File name="C:\xampp\htdocs\bahanpiknik\application\language\index.html" />
+            </Folder>
+            <Folder name="libraries">
+                <File name="C:\xampp\htdocs\bahanpiknik\application\libraries\index.html" />
+            </Folder>
+            <Folder name="logs">
+                <File name="C:\xampp\htdocs\bahanpiknik\application\logs\index.html" />
+            </Folder>
+            <Folder name="models">
+                <File name="C:\xampp\htdocs\bahanpiknik\application\models\index.html" />
+            </Folder>
+            <Folder name="third_party">
+                <File name="C:\xampp\htdocs\bahanpiknik\application\third_party\index.html" />
+            </Folder>
+            <Folder name="views">
+                <Folder name="errors">
+                    <Folder name="cli">
+                        <File name="C:\xampp\htdocs\bahanpiknik\application\views\errors\cli\error_404.php" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\application\views\errors\cli\error_db.php" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\application\views\errors\cli\error_exception.php" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\application\views\errors\cli\error_general.php" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\application\views\errors\cli\error_php.php" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\application\views\errors\cli\index.html" />
+                    </Folder>
+                    <Folder name="html">
+                        <File name="C:\xampp\htdocs\bahanpiknik\application\views\errors\html\error_404.php" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\application\views\errors\html\error_db.php" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\application\views\errors\html\error_exception.php" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\application\views\errors\html\error_general.php" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\application\views\errors\html\error_php.php" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\application\views\errors\html\index.html" />
+                    </Folder>
+                    <File name="C:\xampp\htdocs\bahanpiknik\application\views\errors\index.html" />
+                </Folder>
+                <Folder name="templates">
+                    <File name="C:\xampp\htdocs\bahanpiknik\application\views\templates\action_bar.php" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\application\views\templates\footer.php" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\application\views\templates\header.php" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\application\views\templates\menu.php" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\application\views\templates\service.php" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\application\views\templates\slider.php" />
+                </Folder>
+                <File name="C:\xampp\htdocs\bahanpiknik\application\views\home.php" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\views\index.html" />
+                <File name="C:\xampp\htdocs\bahanpiknik\application\views\welcome_message.php" />
+            </Folder>
+            <File name="C:\xampp\htdocs\bahanpiknik\application\.htaccess" />
+            <File name="C:\xampp\htdocs\bahanpiknik\application\index.html" />
+        </Folder>
+        <Folder name="bootstrap">
+            <Folder name="css">
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\css\bahanpiknik.css" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\css\bootstrap.css" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\css\bootstrap.min.css" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\css\custom.css" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\css\font-awesome.min.css" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\css\icomoon-social.css" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\css\main.css" />
+            </Folder>
+            <Folder name="fonts">
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\fonts\fontawesome-webfont.eot" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\fonts\fontawesome-webfont.svg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\fonts\fontawesome-webfont.ttf" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\fonts\fontawesome-webfont.woff" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\fonts\FontAwesome.otf" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+            </Folder>
+            <Folder name="js">
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\js\bootstrap.js" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\js\bootstrap.min.js" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\js\jquery-1.9.1.min.js" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\js\jquery.bootstrap.newsbox.js" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\js\jquery.bootstrap.newsbox.min.js" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\js\modernizr-2.6.2-respond-1.1.0.min.js" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\js\scrolling-nav.js" />
+            </Folder>
+            <Folder name="less">
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\less\components.less" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\less\general.less" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\less\lesshat.less" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\less\main.less" />
+                <File name="C:\xampp\htdocs\bahanpiknik\bootstrap\less\variables.less" />
+            </Folder>
+        </Folder>
+        <Folder name="dokumentasi">
+            <Folder name="BASICA">
+                <Folder name="css">
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\css\bootstrap.css" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\css\bootstrap.min.css" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\css\custom.css" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\css\font-awesome.min.css" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\css\icomoon-social.css" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\css\main.css" />
+                </Folder>
+                <Folder name="fonts">
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\fonts\fontawesome-webfont.eot" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\fonts\fontawesome-webfont.svg" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\fonts\fontawesome-webfont.ttf" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\fonts\fontawesome-webfont.woff" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\fonts\FontAwesome.otf" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\fonts\glyphicons-halflings-regular.eot" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\fonts\glyphicons-halflings-regular.svg" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\fonts\glyphicons-halflings-regular.ttf" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\fonts\glyphicons-halflings-regular.woff" />
+                </Folder>
+                <Folder name="img">
+                    <Folder name="blog">
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\blog\1.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\blog\2.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\blog\3.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\blog\4.jpg" />
+                    </Folder>
+                    <Folder name="icons">
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\icons\facebook.png" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\icons\linkedin.png" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\icons\rss.png" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\icons\twitter.png" />
+                    </Folder>
+                    <Folder name="logos">
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logos\logo-1.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logos\logo-10.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logos\logo-11.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logos\logo-12.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logos\logo-13.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logos\logo-14.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logos\logo-15.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logos\logo-2.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logos\logo-3.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logos\logo-4.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logos\logo-5.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logos\logo-6.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logos\logo-7.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logos\logo-8.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logos\logo-9.jpg" />
+                    </Folder>
+                    <Folder name="portfolio">
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\portfolio\1.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\portfolio\2.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\portfolio\3.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\portfolio\4.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\portfolio\5.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\portfolio\6.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\portfolio\7.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\portfolio\8.jpg" />
+                    </Folder>
+                    <Folder name="slides">
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\slides\1.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\slides\2.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\slides\3.jpg" />
+                    </Folder>
+                    <Folder name="team">
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\team\1.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\team\2.jpg" />
+                        <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\team\3.jpg" />
+                    </Folder>
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\about-us.jpg" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\bars.png" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\bx_loader.gif" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\glyphicons-halflings-white.png" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\glyphicons-halflings.png" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\icomoon-social.png" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\logo.png" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\img\title-before.png" />
+                </Folder>
+                <Folder name="js">
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\js\bootstrap.js" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\js\bootstrap.min.js" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\js\jquery-1.9.1.min.js" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\js\jquery.easing.min.js" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\js\modernizr-2.6.2-respond-1.1.0.min.js" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\js\scrolling-nav.js" />
+                </Folder>
+                <Folder name="less">
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\less\components.less" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\less\general.less" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\less\lesshat.less" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\less\main.less" />
+                    <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\less\variables.less" />
+                </Folder>
+                <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\about-us.html" />
+                <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\blog-post.html" />
+                <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\blog.html" />
+                <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\contact-us.html" />
+                <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\full-width.html" />
+                <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\index.html" />
+                <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\portfolio-item.html" />
+                <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\portfolio.html" />
+                <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\BASICA\services.html" />
+            </Folder>
+            <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\basica.zip" />
+            <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\logo bahanpiknik.com.psd" />
+            <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\Untitled-1.psd" />
+            <File name="C:\xampp\htdocs\bahanpiknik\dokumentasi\v1.0.5.zip" />
+        </Folder>
+        <Folder name="img">
+            <Folder name="blog">
+                <File name="C:\xampp\htdocs\bahanpiknik\img\blog\1.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\blog\2.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\blog\3.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\blog\4.jpg" />
+            </Folder>
+            <Folder name="icons">
+                <File name="C:\xampp\htdocs\bahanpiknik\img\icons\facebook.png" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\icons\linkedin.png" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\icons\rss.png" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\icons\twitter.png" />
+            </Folder>
+            <Folder name="logos">
+                <File name="C:\xampp\htdocs\bahanpiknik\img\logos\logo-1.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\logos\logo-10.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\logos\logo-11.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\logos\logo-12.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\logos\logo-13.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\logos\logo-14.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\logos\logo-15.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\logos\logo-2.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\logos\logo-3.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\logos\logo-4.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\logos\logo-5.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\logos\logo-6.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\logos\logo-7.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\logos\logo-8.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\logos\logo-9.jpg" />
+            </Folder>
+            <Folder name="portfolio">
+                <File name="C:\xampp\htdocs\bahanpiknik\img\portfolio\1.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\portfolio\2.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\portfolio\3.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\portfolio\4.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\portfolio\5.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\portfolio\6.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\portfolio\7.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\portfolio\8.jpg" />
+            </Folder>
+            <Folder name="slides">
+                <File name="C:\xampp\htdocs\bahanpiknik\img\slides\1.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\slides\2.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\slides\3.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\slides\4.jpg" />
+            </Folder>
+            <Folder name="team">
+                <File name="C:\xampp\htdocs\bahanpiknik\img\team\1.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\team\2.jpg" />
+                <File name="C:\xampp\htdocs\bahanpiknik\img\team\3.jpg" />
+            </Folder>
+            <File name="C:\xampp\htdocs\bahanpiknik\img\1.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\2.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\3.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\4.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\5.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\6.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\7.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\about-us.jpg" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\bars.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\bx_loader.gif" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\distro.jpg" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\event.jpg" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\fb-sidebar.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\fotographer.jpg" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\glyphicons-halflings-white.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\glyphicons-halflings.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\icomoon-social.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\logo.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\reseller-sidebar.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\reseller.jpg" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\sidebar.psd" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\testimoni-sidebar.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\testimoni.png" />
+            <File name="C:\xampp\htdocs\bahanpiknik\img\title-before.png" />
+        </Folder>
+        <File name="C:\xampp\htdocs\bahanpiknik\.htaccess" />
+        <File name="C:\xampp\htdocs\bahanpiknik\index.php" />
+    </Project>
+</NotepadPlus>
