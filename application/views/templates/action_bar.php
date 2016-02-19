@@ -3,9 +3,9 @@
 
 <div class="action-float">
 	Cari Event : &nbsp &nbsp
-	<input type="text" name="begin" data-options="height:30, width:100" class="easyui-datebox" />
+	<input type="text" name="begin" data-options="height:30" class="easyui-datebox col-md-2" />
 	&nbsp to &nbsp
-	<input type="text" name="end" data-options="height:30, width:100" class="easyui-datebox" /> &nbsp &nbsp
+	<input type="text" name="end" data-options="height:30" class="easyui-datebox col-md-2" /> &nbsp &nbsp
 	<input type="submit" class="btn btn-orange" value="Cari.." />
 </div>
 

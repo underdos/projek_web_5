@@ -19,7 +19,7 @@ body {
   background: #151515;
 }
 .section-blue {
-  background: #3131fa;
+  background: #3782f2;
   height:90px;
 }
 .section-dark h3 {
@@ -363,8 +363,8 @@ a:hover {
     background-clip: padding-box;
     z-index: 4;
   }
-  
-  
+
+
 .pricing-plan-promote-title {
   position: relative;
   margin: -20px -10px 20px;
@@ -436,7 +436,7 @@ a:hover {
   border-radius: 7px;
   background-clip: padding-box;
   z-index: 4;
-}  
+}
 }
 
 /*--------------------------------------------------------------------------
@@ -618,7 +618,7 @@ a:hover {
 .single-post-title h2 {
   font-size: 36px;
   margin: 0 0 10px 0;
-  border-bottom: 1px dotted #828282;  
+  border-bottom: 1px dotted #828282;
 }
 .single-post-info {
   margin: 20px 0;
@@ -1044,7 +1044,7 @@ border:none;
 	Footer Style
 --------------------------------------------------------------------------*/
 .footer {
-  background: #3131fa;
+  background: #3782f2;
   color: white;
   padding: 0 20px 10px 20px;
   border-top: 4px solid #f4ba3d;
@@ -1312,7 +1312,5 @@ outline: 0;
 {
     padding:4px 4px;
     margin:0px;
-    border-bottom:1px dotted #555; 
+    border-bottom:1px dotted #555;
 }
-
-

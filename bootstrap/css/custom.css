@@ -1,11 +1,11 @@
 .navbar-default {
     background-color: #FFF;
-    
+
 }
 .navbar {
-	background:#3131fa;
-	box-shadow:2px 2px 2px #3131fa;
-	border-color: #3131fa;
+	background:#3782f2;
+	box-shadow:2px 2px 2px #3782f2;
+	border-color: #3782f2;
 
 }
 @media(min-width:767px) {
@@ -15,9 +15,10 @@
         -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
         transition: background .5s ease-in-out,padding .5s ease-in-out;
     }
-	
+
     .top-nav-collapse {
         padding: 0;
+
     }
 }
 
@@ -28,7 +29,7 @@
 
 #main-slider {
   position: relative;
-  margin-top:110px;
+  margin-top:90px;
 }
 @media(max-width:767px) {
 #main-slider {
@@ -320,9 +321,3 @@
 	right: 20px;
 	top: 30px;
 }
-
-
-
-
-
-

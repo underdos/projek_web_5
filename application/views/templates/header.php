@@ -11,8 +11,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="">
     <meta name="author" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>BASICA! A Free Bootstrap3 HTML5 CSS3 Template by Vactual Art</title>
+    <title>bahanpiknik.com </title>
 
     <!-- Bootstrap Core CSS -->
     <!-- <link href="css/bootstrap.css" rel="stylesheet"> -->
