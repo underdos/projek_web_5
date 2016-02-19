@@ -48,7 +48,7 @@
 				direction: 'down',
 				easing: 'easeInOutBack',
 				speed: 'slow',
-				interval: 2000,
+				interval: 4000,
 				height: 'auto',
 				visible: 2,
 				mousePause: 0,

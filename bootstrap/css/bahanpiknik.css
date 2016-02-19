@@ -8,6 +8,9 @@
 .sidebar-post{
 	border:1px solid #daddd8;
 	padding:5px;
+	height:350px;
+	overflow-y:auto;
+	overflow-x:hidden;
 }
 
 .sidebar-title{
@@ -17,26 +20,32 @@
 
 }
 
+.borderdoted{
+		border-bottom:1px dotted #dad9e7;
+}
+
+.sidebar-post ul{
+	list-style-type: none;
+	padding-top:0px;
+	padding-right:10px;
+	padding-bottom:0px;
+	padding-left:10px;
+}
+
 .vticker ul {
 	list-style-type: none;
+	padding-top:0px;
+	padding-right:10px;
+	padding-bottom:0px;
+	padding-left:10px;
+
 }
 
 .vticker ul li{
 	height:150px;
-	padding:10px;
-	border-bottom: 1px solid #9d9ba1;
-}
-
-.testimoni {
-	list-style-type: none;
 
 }
 
-.testimoni li {
-	height:100px;
-	margin-left:-30px;
-	border-bottom: 1px solid #9d9ba1
-}
 
 .sidebar-testimoni{
 	background-color:#3782f2;
@@ -51,4 +60,12 @@
 
 .nav-float{
 	float:right;
+}
+
+.produk{
+	padding:10px;
+}
+
+.produk-wraper{
+	height:auto;
 }
