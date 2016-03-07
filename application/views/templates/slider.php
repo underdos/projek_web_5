@@ -6,13 +6,13 @@
              <li data-target="#main-slider" data-slide-to="2"></li>
          </ol>
          <div class="carousel-inner">
-             <div class="item active" style="background-image: url(img/slides/4.jpg)">
+             <div class="item active" style="background-image: url(img/slides/1.jpg)">
                  <div class="container">
                      <div class="row">
                          <div class="col-sm-12">
                              <div class="carousel-content centered">
-                                 <h2 class="animation animated-item-1">Welcome to BASICA! A Bootstrap3 Template</h2>
-                                 <p class="animation animated-item-2">Sed mattis enim in nulla blandit tincidunt. Phasellus vel sem convallis, mattis est id, interdum augue. Integer luctus massa in arcu euismod venenatis. </p>
+                                 <h2 class="animation animated-item-1">Welcome bahanpiknik.com</h2>
+                                 <p class="animation animated-item-2">Jelajahi Indonesia bersama kami, melalui trip yang kami sediakan.. </p>
                              </div>
                          </div>
                      </div>
@@ -31,6 +31,18 @@
                  </div>
              </div><!--/.item-->
              <div class="item" style="background-image: url(img/slides/3.jpg)">
+                 <div class="container">
+                     <div class="row">
+                         <div class="col-sm-12">
+                             <div class="carousel-content centered">
+                                 <h2 class="animation animated-item-1">Works Seamlessly Well on All Devices</h2>
+                                 <p class="animation animated-item-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae euismod lacus. Maecenas in tempor lectus. Nam mattis, odio ut dapibus ornare, libero. </p>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+             </div><!--/.item-->
+             <div class="item" style="background-image: url(img/slides/4.jpg)">
                  <div class="container">
                      <div class="row">
                          <div class="col-sm-12">
